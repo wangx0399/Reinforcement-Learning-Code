@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4db9d426-a72d-4262-b100-e73e9b35406d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1wW31qN3WGcfuvGC7mQByQQOS5s" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Python.Verification">
+    <configuration name="Frame2Gif" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PPO" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Frame2Gif.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TrainPPO" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PPO" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="LD_LIBRARY_PATH" value="$LD_LIBRARY_PATH:$USER_HOME$/.mujoco/mjpro150/bin" />
+        <env name="LD_PRELOAD" value="/usr/lib/x86_64-linux-gnu/libGLEW.so:/usr/lib/x86_64-linux-gnu/libGL.so" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TrainPPO.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Verification" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PPO" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="LD_LIBRARY_PATH" value="$LD_LIBRARY_PATH:$USER_HOME$/.mujoco/mjpro150/bin" />
+        <env name="LD_PRELOAD" value="/usr/lib/x86_64-linux-gnu/libGLEW.so:/usr/lib/x86_64-linux-gnu/libGL.so" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Verification.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ppo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PPO" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="LD_LIBRARY_PATH" value="$LD_LIBRARY_PATH:$USER_HOME$/.mujoco/mjpro150/bin" />
+        <env name="LD_PRELOAD" value="/usr/lib/x86_64-linux-gnu/libGLEW.so:/usr/lib/x86_64-linux-gnu/libGL.so" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ppo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.ppo" />
+      <item itemvalue="Python.Verification" />
+      <item itemvalue="Python.Frame2Gif" />
+      <item itemvalue="Python.TrainPPO" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Verification" />
+        <item itemvalue="Python.TrainPPO" />
+        <item itemvalue="Python.Frame2Gif" />
+        <item itemvalue="Python.ppo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4db9d426-a72d-4262-b100-e73e9b35406d" name="Default Changelist" comment="" />
+      <created>1628560304526</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1628560304526</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1358" y="389" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1629206243883">
+      <screen x="43" y="27" width="2517" height="1413" />
+    </state>
+    <state x="1358" y="389" key="#com.intellij.execution.impl.EditConfigurationsDialog/43.27.2517.1413@43.27.2517.1413" timestamp="1629206243883" />
+    <state x="1735" y="460" width="320" height="541" key="EnvironmentVariablesDialog" timestamp="1629206241994">
+      <screen x="43" y="27" width="2517" height="1413" />
+    </state>
+    <state x="1735" y="460" width="320" height="541" key="EnvironmentVariablesDialog/43.27.2517.1413@43.27.2517.1413" timestamp="1629206241994" />
+    <state x="1444" y="493" width="424" height="484" key="FileChooserDialogImpl" timestamp="1629518764970">
+      <screen x="43" y="27" width="2517" height="1413" />
+    </state>
+    <state x="1444" y="493" width="424" height="484" key="FileChooserDialogImpl/43.27.2517.1413@43.27.2517.1413" timestamp="1629518764970" />
+    <state width="1297" height="248" key="GridCell.Tab.0.bottom" timestamp="1629768694946">
+      <screen x="43" y="27" width="2517" height="1413" />
+    </state>
+    <state width="1297" height="248" key="GridCell.Tab.0.bottom/43.27.2517.1413@43.27.2517.1413" timestamp="1629768694946" />
+    <state width="1297" height="248" key="GridCell.Tab.0.center" timestamp="1629768694946">
+      <screen x="43" y="27" width="2517" height="1413" />
+    </state>
+    <state width="1297" height="248" key="GridCell.Tab.0.center/43.27.2517.1413@43.27.2517.1413" timestamp="1629768694946" />
+    <state width="1297" height="248" key="GridCell.Tab.0.left" timestamp="1629768694946">
+      <screen x="43" y="27" width="2517" height="1413" />
+    </state>
+    <state width="1297" height="248" key="GridCell.Tab.0.left/43.27.2517.1413@43.27.2517.1413" timestamp="1629768694946" />
+    <state width="1297" height="248" key="GridCell.Tab.0.right" timestamp="1629768694946">
+      <screen x="43" y="27" width="2517" height="1413" />
+    </state>
+    <state width="1297" height="248" key="GridCell.Tab.0.right/43.27.2517.1413@43.27.2517.1413" timestamp="1629768694946" />
+    <state width="1297" height="485" key="GridCell.Tab.1.bottom" timestamp="1629557422529">
+      <screen x="43" y="27" width="2517" height="1413" />
+    </state>
+    <state width="1297" height="485" key="GridCell.Tab.1.bottom/43.27.2517.1413@43.27.2517.1413" timestamp="1629557422529" />
+    <state width="1297" height="485" key="GridCell.Tab.1.center" timestamp="1629557422529">
+      <screen x="43" y="27" width="2517" height="1413" />
+    </state>
+    <state width="1297" height="485" key="GridCell.Tab.1.center/43.27.2517.1413@43.27.2517.1413" timestamp="1629557422529" />
+    <state width="1297" height="485" key="GridCell.Tab.1.left" timestamp="1629557422529">
+      <screen x="43" y="27" width="2517" height="1413" />
+    </state>
+    <state width="1297" height="485" key="GridCell.Tab.1.left/43.27.2517.1413@43.27.2517.1413" timestamp="1629557422529" />
+    <state width="1297" height="485" key="GridCell.Tab.1.right" timestamp="1629557422529">
+      <screen x="43" y="27" width="2517" height="1413" />
+    </state>
+    <state width="1297" height="485" key="GridCell.Tab.1.right/43.27.2517.1413@43.27.2517.1413" timestamp="1629557422529" />
+  </component>
+</project>
