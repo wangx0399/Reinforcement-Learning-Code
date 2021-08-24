@@ -23,7 +23,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python.Verification">
+  <component name="RunManager" selected="Python.Frame2Gif">
     <configuration name="Frame2Gif" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PPO" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -122,9 +122,9 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Frame2Gif" />
         <item itemvalue="Python.Verification" />
         <item itemvalue="Python.TrainPPO" />
-        <item itemvalue="Python.Frame2Gif" />
         <item itemvalue="Python.ppo" />
       </list>
     </recent_temporary>
