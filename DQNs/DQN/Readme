@@ -1,0 +1,4 @@
+1. main.py,用的重写的atari_wrapper.py
+   每4帧取图，（210，160，3）-> (1, 84, 84), 结合前三张图组成（4, 84, 84)送给Q network
+
+2. another_dqn.py 直接用的OpenAI Baselines里的atari_wrapper.py
