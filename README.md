@@ -29,10 +29,11 @@ DQNs、TRPO、PPO、DDPG、TD3、Soft AS and some interesting :)
 
 ### Here is under PER_DQN
 
-<video id="video" controls="" preload="none">
-    <source id="mp4" src="DQNs/PER_DQN/tmp/gym-test/openaigym.video.0.40655.video000000.mp4" type="video/mp4">
-    <p>Your user agent dose not support the HTML5 video element.</p>
-</video>
-
-<video src="DQNs/PER_DQN/tmp/gym-test/openaigym.video.0.40655.video000000.mp4" controls="controls" width="500" height="300">您的浏览器不支持播放该视频！</video>
-
+<table>
+    <tr>
+        <td><center><img src="DQNs/PER_DQN/tmp/gym-test/Breakout.gif" width="200"></center></td>
+    </tr>
+    <tr>
+        <td><div align=center>Atari-Breakout-v4</div></td>
+    </tr>
+</table>
