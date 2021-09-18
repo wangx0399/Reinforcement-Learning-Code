@@ -27,13 +27,15 @@ DQNs、TRPO、PPO、DDPG、TD3、Soft AS and some interesting :)
 </table>
 
 
-### Here is under PER_DQN
+### Here is under PER_DQN、Dueling_DQN
 
 <table>
     <tr>
         <td><center><img src="DQNs/PER_DQN/tmp/gym-test/Breakout.gif" width="200"></center></td>
+        <td><center><img src="DQNs/Dueling_DQN/tmp/gym-results/Pong.gif" width="200"></center></td>
     </tr>
     <tr>
         <td><div align=center>Atari-Breakout-v4</div></td>
+        <td><div align=center>Atari-Pong-v4</div></td>
     </tr>
 </table>
